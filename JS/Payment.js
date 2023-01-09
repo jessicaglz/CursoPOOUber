@@ -1,0 +1,3 @@
+class Payment () {
+    this.id;
+}
